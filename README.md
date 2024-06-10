@@ -1,4 +1,4 @@
-﻿# Welcome to Ozzss
+# Welcome to Ozzss
 
 
 The project **Ozzss** is a journey to building a network agentic platform. By the completion of the project, the app **Geppetto** will make use of network agents and network APIs that are registered with the clearing house called Ozzss.
