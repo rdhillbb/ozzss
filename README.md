@@ -29,4 +29,4 @@ Once the controlling LLM app is architected, the definition of the application w
 
 
 # Note: 
-**We welcome comments be it good, bad, ugly, or flames as we do not claim to be know-it-alls. Changes to improve out python code is very much welcomed**
+**We welcome comments be it good, bad, ugly, or flames as we do not claim to be know-it-alls. Changes to improve our python code is very much welcomed**
